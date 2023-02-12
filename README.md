@@ -16,7 +16,7 @@ Certificação SSL através do Let's Encrypt ou outras certificadoras;
 Gestão simplificada através de interface web.
 
 ## Dados da instalação
-Estão armazenadas no arquivo SRVPRD095 - Nginx Proxy Manager.docx (necessário senha para abrir);
+Estão armazenadas no arquivo **SRVPRD095 - Nginx Proxy Manager.docx** (necessário senha para abrir);
 
 ## Outras informações
-Faça modificações no arquivo docker-compose.yml e clone o projeto no servidor de destino.
+Faça modificações no arquivo **docker-compose.yml** e clone o projeto no servidor de destino.
