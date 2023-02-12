@@ -10,7 +10,9 @@ O NPM foi configurado para ser o Proxy Central das aplicações corporativas do 
 
 ## Vantagens
 Reduz a distribuição de IPs externos;
+
 Certificação SSL através do Let's Encrypt ou outras certificadoras;
+
 Gestão simplificada através de interface web.
 
 ## Dados da instalação
