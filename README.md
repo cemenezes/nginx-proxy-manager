@@ -9,9 +9,9 @@ Também é possível certificar sites através da interface da ferramenta. Tanto
 
 ## Utilização
 
-A interface de gerenciamento pode ser acessada através do endereço: http://npm.ac.gov.br:81 (somente rede interna)
+A interface de gerenciamento pode ser acessada através do endereço: http://npm.ac.gov.br:81 (somente rede interna).
 
-O usuário de acesso está armazenado na documentação do projeto **SRVPRD095 - Nginx Proxy Manager.docx** (necessário senha para abrir);
+O usuário de acesso está armazenado na documentação do projeto **SRVPRD095 - Nginx Proxy Manager.docx** (necessário senha para abrir).
 
 ## Instalação e Configuração
 
