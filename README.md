@@ -1,22 +1,19 @@
 # Nginx Proxy Manager
 
-https://nginxproxymanager.com/
-
-## O que é?
 O Nginx Proxy Manager (NPM) é um container Docker para gestão de Proxys feitos através do NGINX através de uma interface Web.
+Home do projeto: https://nginxproxymanager.com/
 
-## Onde está sendo utilizado?
-O NPM foi configurado para ser o Proxy Central das aplicações corporativas do Governo do Estado do Acre.
+O NPM servirá como Proxy Central das aplicações corporativas do Governo do Estado do Acre. Reduzindo a necessidade de distribuição de IP's externos entre aplicações.
 
-## Vantagens
-Reduz a distribuição de IPs externos;
+Também é possível certificar sites através da interface da ferramenta. Tanto usando Let's Encrypt como outros certificados.
 
-Certificação SSL através do Let's Encrypt ou outras certificadoras;
+## Utilização
 
-Gestão simplificada através de interface web.
+A interface de gerenciamento pode ser acessada através do endereço: http://npm.ac.gov.br:81 (somente rede interna)
 
-## Dados da instalação
-Estão armazenadas no arquivo **SRVPRD095 - Nginx Proxy Manager.docx** (necessário senha para abrir);
+O usuário de acesso está armazenado na documentação do projeto **SRVPRD095 - Nginx Proxy Manager.docx** (necessário senha para abrir);
 
-## Outras informações
-Faça modificações no arquivo **docker-compose.yml** e clone o projeto no servidor de destino.
+## Instalação e Configuração
+
+Faça modificações no arquivo **docker-compose.yml** e clone o projeto no servidor de destino. Altere as configurações de acordo com a necessidade.
+
